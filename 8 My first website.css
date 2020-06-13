@@ -1,0 +1,31 @@
+header {
+  background: #2a46a4;
+  color: azure;
+}
+
+.main {
+  background: #e6e7ec;
+}
+
+aside {
+  background: #0f99e3;
+}
+
+.color1 {
+  background: #cf71ef;
+  color: #ffffff;
+}
+
+.color2 {
+  background: #fab974;
+  color: #000000;
+}
+
+footer {
+  background: #eb3737;
+  color: #ffffff;
+  position: absolute;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
